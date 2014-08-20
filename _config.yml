@@ -1,0 +1,4 @@
+title_tag_text: Big Data Science in Medicine – Oxford 2014
+h1_tag_text: Big Data Science in Medicine 2014
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
