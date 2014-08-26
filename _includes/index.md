@@ -3,7 +3,7 @@
 
 > Jointly hosted by [Aging Analytics](http://aginganalytics.com) and the [BGRF](http://www.bg-rf.org.uk/), *Big Data Science in Medicine* brings together leading lights from **artificial intelligence**, **biomedical science** and **regenerative medicine** for an evening of talks and discussion in Oxford.
 
-The event is free to attend, but places are limited. Those interested should register [here](#) to secure their place.
+The event is free to attend, but places are limited. Those interested should [register here](https://www.eventbrite.com/e/big-data-science-in-medicine-congress-tickets-12697056237) to secure their place.
 
 ### Confirmed Speakers
 
