@@ -9,10 +9,7 @@ The event is free to attend, but places are limited. Those interested should reg
 
 <!-- * Richard Barker, [CASMI](http://casmi.org.uk/) -->
 * Dmitry Kaminskiy, [Deep Knowledge Ventures](http://deepknowledgeventures.com/)
-<!-- * Nick Bostrom, [Future of Humanity Institute](http://www.fhi.ox.ac.uk/) -->
-<!-- * Aubrey de Grey, [SENS](http://www.sens.org/) -->
 * Alex Zhavoronkov, [BGRF](http://www.bg-rf.org.uk/) and [InSilico Medicine](http://insilicomedicine.com/)
-<!-- * (name), [Oxford Nanopore Technologies](https://www.nanoporetech.com/) -->
 
 ### About the organisers
 
