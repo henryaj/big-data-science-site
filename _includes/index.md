@@ -11,6 +11,7 @@ The event is free to attend, but places are limited. Those interested should [re
 * Aubrey de Grey, [SENS](http://www.sens.org/)
 * Alex Zhavoronkov, [BGRF](http://www.bg-rf.org.uk/) and [InSilico Medicine](http://insilicomedicine.com/)
 * Geoffrey Furlonger, [Aging Analytics](http://www.aginganalytics.com)
+* Avi Roy, [OUSS](http://users.ox.ac.uk/~science/), [SynOX](http://synox.co.uk/), and [OxTET](http://oxtet.co.uk/)
 * João Pedro de Magalhães, [University of Liverpool](http://pcwww.liv.ac.uk/~aging/)
 
 ### About the organisers
