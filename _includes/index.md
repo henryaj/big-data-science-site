@@ -1,4 +1,4 @@
-## 15 September, 4:30pm–7:30pm<br>Martin Wood Lecture Theatre<br>Oxford, UK
+## 15 September, 4:30pm–7:30pm<br>[Martin Wood Lecture Theatre](https://goo.gl/maps/sg2zN)<br>Oxford, UK
 <br>
  
 **The [Oxford University Scientific Society (OUSS)](http://users.ox.ac.uk/~science/) welcomes [Deep Knowledge Ventures](deepknowledgeventures.com) and the [Biogerontology Research Foundation (BGRF)](http://www.bg-rf.org.uk/) to jointly host *Big Data Science in Medicine*, a conference bringing together leading lights from artificial intelligence, biomedical science and regenerative medicine for an evening of talks and discussion in Oxford.**
