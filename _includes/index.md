@@ -1,7 +1,7 @@
 ## 15 September, 4:30pm–7:30pm<br>Martin Wood Lecture Theatre<br>Oxford, UK
 <br>
-
-Jointly hosted by [Aging Analytics](http://aginganalytics.com) and the [BGRF](http://www.bg-rf.org.uk/), *Big Data Science in Medicine* brings together leading lights from **artificial intelligence**, **biomedical science** and **regenerative medicine** for an evening of talks and discussion in Oxford.
+ 
+**The [Oxford University Scientific Society (OUSS)](http://users.ox.ac.uk/~science/) welcomes [Deep Knowledge Ventures](deepknowledgeventures.com) and the [Biogerontology Research Foundation (BGRF)](http://www.bg-rf.org.uk/) to jointly host *Big Data Science in Medicine*, a conference bringing together leading lights from artificial intelligence, biomedical science and regenerative medicine for an evening of talks and discussion in Oxford.**
 
 The event is free to attend, but places are limited. Those interested should [register here](https://www.eventbrite.com/e/big-data-science-in-medicine-congress-tickets-12697056237) to secure their place.
 
