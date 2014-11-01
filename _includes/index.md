@@ -27,8 +27,7 @@ The **[Biogerontology Research Foundation (BGRF)](http://www.bg-rf.org.uk/)** se
 Enquiries should be directed to [media@aginganalytics.com](mailto:media@aginganalytics.com).
 
 <span style="color:gray;">© 2014 Aging Analytics and BGRF. All rights reserved.</span>
-<<<<<<< HEAD
-=======
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -40,4 +39,3 @@ Enquiries should be directed to [media@aginganalytics.com](mailto:media@agingana
   ga('send', 'pageview');
 
 </script>
->>>>>>> origin/gh-pages
